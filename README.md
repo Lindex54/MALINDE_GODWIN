@@ -1,18 +1,18 @@
 # Hi 👋 I'm Malinde Godwin
 
-I'm a passionate FrontEnd & Full-Stack developer from Uganda 🇺🇬
+I'm a passionate Full-Stack developer from Uganda 🇺🇬
 
 ---
 
 ## About Me
 
-💼 Building web apps with ReactJS, NextJS, NodeJS, and more  
+💼 Building web apps with ReactJS, NextJS, NodeJS, PHP, Tailwind CSS, and more  
 
 📈 Exploring open-source projects and improving coding skills  
 
 ❤️ I love writing clean code, learning new frameworks, and solving challenging problems  
 
-💬 Ask me about anything related to web development, JavaScript, React, Node, or NextJS  
+💬 Ask me about anything related to web development, Python JavaScript, React, Node, NextJS, PHP, or Tailwind CSS  
 
 ---
 
@@ -22,6 +22,8 @@ I'm a passionate FrontEnd & Full-Stack developer from Uganda 🇺🇬
 ![ReactJS](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
 ![NextJS](https://img.shields.io/badge/-NextJS-000000?logo=next.js&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white)
 
 ---
 
