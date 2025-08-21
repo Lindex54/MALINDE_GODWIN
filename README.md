@@ -1,7 +1,7 @@
 # Hi 👋 I'm Malinde Godwin
 
 ## 📊 My GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lindex54&layout=donut)
 
 ## 🚀 Languages & Frameworks I Use
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
