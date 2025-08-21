@@ -1,7 +1,30 @@
 # Hi 👋 I'm Malinde Godwin
 
-## 📊 My Languages
-![JavaScript 40%](https://img.shields.io/badge/JavaScript-40%25-F7DF1E)
-![ReactJS 30%](https://img.shields.io/badge/ReactJS-30%25-61DAFB)
-![NodeJS 20%](https://img.shields.io/badge/NodeJS-20%25-339933)
-![NextJS 10%](https://img.shields.io/badge/NextJS-10%25-000000)
+I'm a passionate FrontEnd & Full-Stack developer from Uganda 🇺🇬
+
+---
+
+## About Me
+
+💼 Building web apps with ReactJS, NextJS, NodeJS, and more  
+
+📈 Exploring open-source projects and improving coding skills  
+
+❤️ I love writing clean code, learning new frameworks, and solving challenging problems  
+
+💬 Ask me about anything related to web development, JavaScript, React, Node, or NextJS  
+
+---
+
+## 🛠️ Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
+![NextJS](https://img.shields.io/badge/-NextJS-000000?logo=next.js&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+
+---
+
+## 📊 My GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lindex54&layout=donut)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lindex54&show_icons=true&theme=default)
