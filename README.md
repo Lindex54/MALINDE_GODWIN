@@ -1,6 +1,6 @@
 # Hi 👋 I'm Malinde Godwin
 
-I'm a passionate Full-Stack developer from Uganda 🇺🇬
+I'm a passionate Full-Stack developer
 
 ---
 
