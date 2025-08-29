@@ -12,7 +12,7 @@ I'm a passionate Full-Stack developer
 
 ❤️ I love writing clean code, learning new frameworks, and solving challenging problems  
 
-💬 Ask me about anything related to web development, Python JavaScript, React, Node, NextJS, PHP, or Tailwind CSS  
+
 
 ---
 
